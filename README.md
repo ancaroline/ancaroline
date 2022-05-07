@@ -3,7 +3,6 @@
 - 🔭 Ainda não estou trabalhando!
 - 🌱 Estou no 2º período de Análise e Desenvolvimento de Sistemas
 - 🤔 Back-end... front-end ou fullstack?
-- 📫 Como me encontrar: carolaragao94@gmail.com
 
 <div align="center">
   <a href="https://github.com/ancaroline">
