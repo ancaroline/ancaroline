@@ -1,4 +1,4 @@
-## Olá! Eu sou a Anne Caroline Aragão!
+## Olá!
 
 - 🔭 Ainda não estou trabalhando!
 - 🌱 Estou no 2º período de Análise e Desenvolvimento de Sistemas
