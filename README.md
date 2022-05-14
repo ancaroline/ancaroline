@@ -1,9 +1,5 @@
 ## Olá!
 
-- 🔭 Ainda não estou trabalhando!
-- 🌱 Estou no 2º período de Análise e Desenvolvimento de Sistemas
-- 🤔 Back-end... front-end ou fullstack?
-
 <div align="center">
   <a href="https://github.com/ancaroline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ancaroline&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
