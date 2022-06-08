@@ -20,10 +20,6 @@
   ##
   
  <div> 
-  <a href="https://instagram.com/carolaragao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carolaragao94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anne-caroline-penha-arag%C3%A3o-3777b3236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ancaroline/ancaroline/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
